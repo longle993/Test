@@ -1,2 +1,2 @@
-console.log("hello world");
-console.log("feat/a1");
+console.log('hello world')
+console.log('feat/a2')
